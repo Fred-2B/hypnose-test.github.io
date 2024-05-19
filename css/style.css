@@ -288,7 +288,7 @@ h1 {
 	/* CONTENT */
 
 #content1 {
-	padding: 120px 0 60px;
+	padding: 140px 0 60px;
 	top: 0;
 	left: 0;
 	height: auto;
@@ -304,7 +304,7 @@ h1 {
 #content1 p {
 	font-family: 'Raleway', sans-serif;
 	text-align: justify;
-	font-size: 1.5rem;
+	font-size: 1.3rem;
 	padding: 0;
 }
 
