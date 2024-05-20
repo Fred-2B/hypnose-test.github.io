@@ -25,7 +25,6 @@ body {
 	background: #c0c0c0;
 	border-bottom: 3px solid;
     border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
-	padding-bottom: 20px;
 }
 
 video {
@@ -297,7 +296,7 @@ h1 {
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	border-bottom: 2px solid;
+	border-bottom: 3px solid;
     border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
 }
 
